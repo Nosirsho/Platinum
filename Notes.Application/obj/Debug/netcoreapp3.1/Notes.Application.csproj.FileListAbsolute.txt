@@ -2,3 +2,16 @@ C:\Users\User\source\repos\NotesBackend\Notes.Application\bin\Debug\netcoreapp3.
 C:\Users\User\source\repos\NotesBackend\Notes.Application\obj\Debug\netcoreapp3.1\Notes.Application.csprojAssemblyReference.cache
 C:\Users\User\source\repos\NotesBackend\Notes.Application\obj\Debug\netcoreapp3.1\Notes.Application.AssemblyInfoInputs.cache
 C:\Users\User\source\repos\NotesBackend\Notes.Application\obj\Debug\netcoreapp3.1\Notes.Application.AssemblyInfo.cs
+C:\Users\N_Kholmamadov\source\repos\Platinum\Notes.Application\bin\Debug\netcoreapp3.1\Notes.Application.deps.json
+C:\Users\N_Kholmamadov\source\repos\Platinum\Notes.Application\bin\Debug\netcoreapp3.1\Notes.Application.dll
+C:\Users\N_Kholmamadov\source\repos\Platinum\Notes.Application\bin\Debug\netcoreapp3.1\Notes.Application.pdb
+C:\Users\N_Kholmamadov\source\repos\Platinum\Notes.Application\bin\Debug\netcoreapp3.1\Notes.Domain.dll
+C:\Users\N_Kholmamadov\source\repos\Platinum\Notes.Application\bin\Debug\netcoreapp3.1\Notes.Domain.pdb
+C:\Users\N_Kholmamadov\source\repos\Platinum\Notes.Application\obj\Debug\netcoreapp3.1\Notes.Application.csproj.AssemblyReference.cache
+C:\Users\N_Kholmamadov\source\repos\Platinum\Notes.Application\obj\Debug\netcoreapp3.1\Notes.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\N_Kholmamadov\source\repos\Platinum\Notes.Application\obj\Debug\netcoreapp3.1\Notes.Application.AssemblyInfoInputs.cache
+C:\Users\N_Kholmamadov\source\repos\Platinum\Notes.Application\obj\Debug\netcoreapp3.1\Notes.Application.AssemblyInfo.cs
+C:\Users\N_Kholmamadov\source\repos\Platinum\Notes.Application\obj\Debug\netcoreapp3.1\Notes.Application.csproj.CoreCompileInputs.cache
+C:\Users\N_Kholmamadov\source\repos\Platinum\Notes.Application\obj\Debug\netcoreapp3.1\Notes.Application.csproj.CopyComplete
+C:\Users\N_Kholmamadov\source\repos\Platinum\Notes.Application\obj\Debug\netcoreapp3.1\Notes.Application.dll
+C:\Users\N_Kholmamadov\source\repos\Platinum\Notes.Application\obj\Debug\netcoreapp3.1\Notes.Application.pdb

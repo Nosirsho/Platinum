@@ -1,0 +1,10 @@
+C:\Users\N_Kholmamadov\source\repos\Platinum\Notes.Domain\bin\Debug\netstandard2.0\Notes.Domain.deps.json
+C:\Users\N_Kholmamadov\source\repos\Platinum\Notes.Domain\bin\Debug\netstandard2.0\Notes.Domain.dll
+C:\Users\N_Kholmamadov\source\repos\Platinum\Notes.Domain\bin\Debug\netstandard2.0\Notes.Domain.pdb
+C:\Users\N_Kholmamadov\source\repos\Platinum\Notes.Domain\obj\Debug\netstandard2.0\Notes.Domain.csproj.AssemblyReference.cache
+C:\Users\N_Kholmamadov\source\repos\Platinum\Notes.Domain\obj\Debug\netstandard2.0\Notes.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\N_Kholmamadov\source\repos\Platinum\Notes.Domain\obj\Debug\netstandard2.0\Notes.Domain.AssemblyInfoInputs.cache
+C:\Users\N_Kholmamadov\source\repos\Platinum\Notes.Domain\obj\Debug\netstandard2.0\Notes.Domain.AssemblyInfo.cs
+C:\Users\N_Kholmamadov\source\repos\Platinum\Notes.Domain\obj\Debug\netstandard2.0\Notes.Domain.csproj.CoreCompileInputs.cache
+C:\Users\N_Kholmamadov\source\repos\Platinum\Notes.Domain\obj\Debug\netstandard2.0\Notes.Domain.dll
+C:\Users\N_Kholmamadov\source\repos\Platinum\Notes.Domain\obj\Debug\netstandard2.0\Notes.Domain.pdb

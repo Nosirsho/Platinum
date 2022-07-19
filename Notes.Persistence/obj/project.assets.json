@@ -1269,19 +1269,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\N_Kholmamadov\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\NotesBackend\\Notes.Persistence\\Notes.Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\N_Kholmamadov\\source\\repos\\Platinum\\Notes.Persistence\\Notes.Persistence.csproj",
       "projectName": "Notes.Persistence",
-      "projectPath": "C:\\Users\\User\\source\\repos\\NotesBackend\\Notes.Persistence\\Notes.Persistence.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\NotesBackend\\Notes.Persistence\\obj\\",
+      "projectPath": "C:\\Users\\N_Kholmamadov\\source\\repos\\Platinum\\Notes.Persistence\\Notes.Persistence.csproj",
+      "packagesPath": "C:\\Users\\N_Kholmamadov\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\N_Kholmamadov\\source\\repos\\Platinum\\Notes.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\N_Kholmamadov\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1293,9 +1293,10 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\User\\source\\repos\\NotesBackend\\Notes.Application\\Notes.Application.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\NotesBackend\\Notes.Application\\Notes.Application.csproj"
+            "C:\\Users\\N_Kholmamadov\\source\\repos\\Platinum\\Notes.Application\\Notes.Application.csproj": {
+              "projectPath": "C:\\Users\\N_Kholmamadov\\source\\repos\\Platinum\\Notes.Application\\Notes.Application.csproj"
             }
           }
         }
@@ -1308,6 +1309,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Sqlite": {
             "target": "Package",
@@ -1329,7 +1331,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

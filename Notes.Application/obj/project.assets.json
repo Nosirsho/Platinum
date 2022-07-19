@@ -1250,19 +1250,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\N_Kholmamadov\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\NotesBackend\\Notes.Application\\Notes.Application.csproj",
+      "projectUniqueName": "C:\\Users\\N_Kholmamadov\\source\\repos\\Platinum\\Notes.Application\\Notes.Application.csproj",
       "projectName": "Notes.Application",
-      "projectPath": "C:\\Users\\User\\source\\repos\\NotesBackend\\Notes.Application\\Notes.Application.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\NotesBackend\\Notes.Application\\obj\\",
+      "projectPath": "C:\\Users\\N_Kholmamadov\\source\\repos\\Platinum\\Notes.Application\\Notes.Application.csproj",
+      "packagesPath": "C:\\Users\\N_Kholmamadov\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\N_Kholmamadov\\source\\repos\\Platinum\\Notes.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\N_Kholmamadov\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1274,9 +1274,10 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\User\\source\\repos\\NotesBackend\\Notes.Domain\\Notes.Domain.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\NotesBackend\\Notes.Domain\\Notes.Domain.csproj"
+            "C:\\Users\\N_Kholmamadov\\source\\repos\\Platinum\\Notes.Domain\\Notes.Domain.csproj": {
+              "projectPath": "C:\\Users\\N_Kholmamadov\\source\\repos\\Platinum\\Notes.Domain\\Notes.Domain.csproj"
             }
           }
         }
@@ -1289,6 +1290,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "AutoMapper": {
             "target": "Package",
@@ -1322,7 +1324,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
