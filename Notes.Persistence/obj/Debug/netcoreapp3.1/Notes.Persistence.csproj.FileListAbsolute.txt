@@ -1,0 +1,4 @@
+C:\Users\User\source\repos\NotesBackend\Notes.Persistence\bin\Debug\netcoreapp3.1\Notes.Application.dll
+C:\Users\User\source\repos\NotesBackend\Notes.Persistence\bin\Debug\netcoreapp3.1\Notes.Domain.dll
+C:\Users\User\source\repos\NotesBackend\Notes.Persistence\obj\Debug\netcoreapp3.1\Notes.Persistence.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\NotesBackend\Notes.Persistence\obj\Debug\netcoreapp3.1\Notes.Persistence.AssemblyInfo.cs
