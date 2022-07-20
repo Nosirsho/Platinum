@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "wnyAXTyCaUAwUT3qZEUgdJBo8NgrVBCJ4fq1ZSEV7sVrGmefzgQE/MGhL08dvBAZBHsI5g9stWorBLPhJuOgUg==",
+  "dgSpecHash": "vex43wygX7BdRaOCitdOOeRpaf0WMqPq/hjiV7Z2DozOow+40A1NJk+BO1RKmm0KA+BCnWt2v/ayIraEfGnGiw==",
   "success": true,
   "projectFilePath": "C:\\Users\\N_Kholmamadov\\source\\repos\\Platinum\\Notes.Application\\Notes.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\N_Kholmamadov\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\N_Kholmamadov\\.nuget\\packages\\fluentvalidation\\10.1.0\\fluentvalidation.10.1.0.nupkg.sha512",
+    "C:\\Users\\N_Kholmamadov\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.1.0\\fluentvalidation.dependencyinjectionextensions.10.1.0.nupkg.sha512",
     "C:\\Users\\N_Kholmamadov\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\N_Kholmamadov\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\N_Kholmamadov\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
